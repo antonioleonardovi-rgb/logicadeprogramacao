@@ -1,7 +1,7 @@
 var nota1 = 6.5;
 var nota2 = 5;
-var nota3 = 5
-var nota4 = 6
+var nota3 = 9
+var nota4 = 8
 
 var média = ((nota1 + nota2 + nota3 + nota4)/4)
 

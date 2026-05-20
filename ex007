@@ -1,0 +1,9 @@
+var numero1 = 3
+var numero2 = 2
+var numero3 = 2
+
+var maior = numero1
+if (numero1 == numero2 & numero1 == numero3)
+    console.log("Todos são iguais")
+else if ( numero1 > numero2 & numero1 > numero3)
+    console.log ("O numero maior é" $(numero1))

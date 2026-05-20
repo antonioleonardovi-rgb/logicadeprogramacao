@@ -1,9 +1,10 @@
-if (idade < 16) {
-    situcao = ("Não vota")
-} else if (idade < 18 || idade >= 70) {
-    situacao("Voto opcional")
-} else {
-    console.log("voto obrigatório")
+var idade = "76"
+if (idade <=15){
+    situacao = "Não Vota"
 }
-var idade = 34
-console.log)
+else ( idade >= 16 <= 18 || idade > 70) {
+    situacao = "Voto opcional"
+}
+console.log(situacao)
+
+    
