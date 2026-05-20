@@ -1,0 +1,23 @@
+var nota1 = 6.5;
+var nota2 = 5;
+var nota3 = 5
+var nota4 = 6
+
+var média = ((nota1 + nota2 + nota3 + nota4)/4)
+
+console.log({média})
+
+var situacao = ""
+
+if (média >= 7) {         /* se */
+situacao = "Aprovado";
+} 
+else {
+    situacao = "Reorovado";
+situacao = "Reprovado"
+}
+
+    situaçao = "Recuperação"
+
+
+console.log(`O aluno está ${situacao}`)

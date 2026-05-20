@@ -1,0 +1,19 @@
+var a = 5 + 3 /* Adição */
+var b = a % 5/* resto da divisão */
+var c = 5 * b ** 2 /* Multiplicação e expoente */
+var d = 10 - a/2 /* Divisão e subtração */
+var e = 6 * 2 / d /* multiplicação e divisão */
+var f = b % e + 4/e /* Resto da divisão */
+
+
+console.log(a)
+
+
+
+
+
+
+
+var media = 5;
+var resultado = media >= 7 ? "Aprovado" : "Reprovado"
+console.log(resultado) /* Para ver o resultado console.log e nome do que quer ver o resultado */
